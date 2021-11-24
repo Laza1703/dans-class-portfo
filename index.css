@@ -7,7 +7,7 @@ h4,
 h5,
 h6 {
   font-family: "Poppins", sans-serif;
-  color: #222222;
+  color: #6d4e4e;
   line-height: 1.2em;
   margin-bottom: 0;
   margin-top: 0;
@@ -40,7 +40,7 @@ body {
 
 .link{
   text-decoration: none;
-  color: #007bff;
+  color: #81a571dc;
   transition: all 0.3s;
 }
 .link:hover{
@@ -205,7 +205,7 @@ body {
     .blog-entry .text .heading a {
       color: #111; }
       .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
-        color: #2f89fc; }
+        color: #81a571dc; }
 
 .blog-entry .meta > div {
   display: inline-block;
